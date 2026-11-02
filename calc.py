@@ -1,3 +1,1 @@
-   def add(a, b):
-       result = a + b
-       return reslt
+add = lambda a, b: reslt
